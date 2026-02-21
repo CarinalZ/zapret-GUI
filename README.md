@@ -46,7 +46,4 @@ python --version
 2.git clone  https://github.com/CarialZ/zapret-GUI.git
 3. cd "C:\Users\ТвоёИмя\Desktop\Zapret Launcher"
 4. Запусти: py zapret_interface.py
-<img width="511" height="187" alt="image" src="https://github.com/user-attachments/assets/d6cf4c59-a39c-46cc-b9c4-a0d4c828305b" />
-<img width="818" height="718" alt="image" src="https://github.com/user-attachments/assets/29ef6b2c-71c1-42c4-86c0-9cb33680da61" />
-
 
