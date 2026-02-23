@@ -6,7 +6,7 @@
 
 - Выбрать папку с установленным zapret
 
-- Выбрать одну из популярных стратегий (general, FAKE TLS AUTO, SIMPLE FAKE и т.д.)
+- Выбрать одну из стратегий (general, FAKE TLS AUTO, SIMPLE FAKE и т.д.)
 
 - Запустить/остановить процесс
 
@@ -21,8 +21,6 @@
 - **Библиотека:** PyQt6
 
 ## Установка
-
-- Или просто установите релиз
 
 ### 1. Установи Python (если ещё не установлен)
 
@@ -43,7 +41,7 @@ python --version
 В той же командной строке выполни:
 
 1. pip install PyQt6 (Если команда pip не работает то вводи это: py -m pip install PyQt6
-2.git clone  https://github.com/CarialZ/zapret-GUI.git
+2. git clone  https://github.com/CarialZ/zapret-GUI.git
 3. cd "C:\Users\ТвоёИмя\Desktop\Zapret Launcher"
 4. Запусти: py zapret_interface.py
 
