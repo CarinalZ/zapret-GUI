@@ -13,7 +13,7 @@
 - Видеть лог действий
 
 ## Соц сети:
-- [Telegram] (https://t.me/carinalproject)
+- Telegram: https://t.me/carinalproject
 
 ## Требования
 
